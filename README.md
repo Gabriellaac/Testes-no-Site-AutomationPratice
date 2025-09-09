@@ -16,7 +16,7 @@ Foram criados casos de teste para validar funcionalidades principais:
 - 🛒 **Carrinho de compras**  
 - 💳 **Checkout**  
 
-A suíte de testes foi documentada em planilha (**Testes.xlsx**) e contém os resultados obtidos, além das evidências em **imagens e vídeo**.
+A suíte de testes foi documentada em [Planilha de Casos de Testes.xlsx](Planilha%20de%20Casos%20de%20Testes.xlsx)) e contém os resultados obtidos, além das evidências em **imagens e vídeo**.
 
 ---
 
@@ -41,7 +41,7 @@ Durante a elaboração dos casos de teste, foram aplicadas as seguintes técnica
 ## 📂 Evidências
 
 Cada caso de teste possui **link direto** para sua respectiva evidência (printscreen), armazenada na pasta `Evidencias`.  
-Na planilha **Testes.xlsx**, basta clicar em **“Ver print”** na coluna de evidências para visualizar.  
+Na planilha **Planilha de Casos de Testes.xlsx**, basta clicar em **“Ver print”** na coluna de evidências para visualizar.  
 
 Exemplo:  
 ```excel
