@@ -1,4 +1,4 @@
-# 🎯 Testes no Site AutomationPratice
+# 🎯 Testes no Site Qazando Shop
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Tecnologia](https://img.shields.io/badge/Tecnologia-Manual%20QA-blue)
@@ -8,7 +8,7 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto tem como objetivo a prática de **testes funcionais** no site [AutomationPratice](http://automationpractice.com.br).  
+Este projeto tem como objetivo a prática de **testes funcionais** no site [Qazando Shop](http://automationpractice.com.br).  
 Foram criados casos de teste para validar funcionalidades principais:
 
 - 📝 **Cadastro de usuário**  
